@@ -1,2 +1,2 @@
 # chineze_translator
-Translator pentru limba chineza
+Translator engleza-mandarina
